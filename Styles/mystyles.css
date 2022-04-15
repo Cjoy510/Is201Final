@@ -1,0 +1,26 @@
+body {
+    background-color: blanchedalmond;
+}
+div {
+    text-align: center;
+}
+
+.home-photo {
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.name{
+    color:white !important;
+}

@@ -1,0 +1,57 @@
+.footer {
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    bottom: 10px;
+    font-size: larger 8px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: rgb(66, 0, 0);
+}
+
+body {
+    background-color: rgb(64, 64, 153);
+}
+.header{
+    width:fit-content;
+    margin: 0 auto;
+}
+.header a {
+    color: white;
+    text-decoration: none;
+}
+.header a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    color: white;
+}
+
+.main a{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.main a:hover {
+    text-decoration: underline;
+}
+
+.main .topbutton {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.main .topbutton:hover {
+    text-decoration: underline;
+}
